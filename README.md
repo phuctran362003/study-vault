@@ -1,5 +1,8 @@
 # Study Notes Repository
 
+Chỗ t tự note, hoặc t góp nhặt được và thấy hay nên note lại. Chỗ nào lụm thì có ghi credit, yên tâm. Không bú fame!
+
+
 This repository serves as a centralized collection of markdown-formatted study notes. It is designed to document and organize knowledge acquired during academic and self-study pursuits.
 
 ## Purpose
